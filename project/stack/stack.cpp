@@ -125,6 +125,7 @@ printf("栈顶元素 %d 出栈之后的栈：",a);
 				    break;
             case 4:
                     conversion();
+					 break;
 			case 5:
 					exit(0);
 		
